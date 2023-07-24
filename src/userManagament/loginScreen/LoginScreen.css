@@ -69,11 +69,11 @@
 .loginScreen .signupButton {
   position: absolute;
   left: 10px;
-  top: 120px;
+  top: 100px;
 }
 
 .loginScreen .findIdPwButton {
   position: absolute;
   left: -150px;
-  top: -50px;
+  top: -70px;
 }
